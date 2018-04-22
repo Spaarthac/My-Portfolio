@@ -5,3 +5,26 @@ div .My-style{
     font-weight: bold;
     color: #5e3636;
 }
+
+.header{
+    background-color:white;
+    display: flex;
+    justify-content: space-around;
+}
+.box-1{
+    background-color: moccasin;
+    font-size: 2em;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid pink;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+.menu li{
+    list-style: none;
+    
+}
